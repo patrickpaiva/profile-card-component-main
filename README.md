@@ -2,6 +2,14 @@
 
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
+## Patrick´s Notes :v:
+Hi! I just finished this challenge and you can access it live using the address:
+https://profile-card-component-main-ochre.vercel.app/
+
+Thanks for visiting! Below you can read Frontend Mentor's instructions.
+
+Bye!
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
